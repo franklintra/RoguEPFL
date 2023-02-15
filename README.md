@@ -51,6 +51,7 @@ In order to win the game, you have to have visited every room, having collected 
 [1]:	https://www.github.com/franklintra
 [2]:	https://www.github.com/mguillon
 [3]:	https://proginsc.epfl.ch/wwwhiver/mini-projet2/setupIntelliJ.pdf
+[4]:  src/main/java/ch/epfl/cs107/play/game/icrogue/constants.java
 [5]:	https://drive.google.com/drive/folders/1EjPB8lb1fAsxzsrDn60GKfeU3ojPhTh6?usp=sharing
 [6]:	src/main/res/animation/
 [7]:	#Deployment
