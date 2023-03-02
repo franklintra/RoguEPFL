@@ -2,7 +2,8 @@
 # Rogue-like game for EPFL
 
 This project was made as a semester project for EPFL
-It is meant to be a 2d areagame also known as rogue-gam  
+It is meant to be a 2d areagame also known as rogue-like game.
+You can play the game by downloading the latest [jar-version](https://github.com/franklintra/RoguEPFL/releases/download/Graded/EPFLRogue.jar)
 Here is the [instructions set][8]
 ## Authors
 
