@@ -20,7 +20,7 @@ public class ICRogue extends AreaGame {
     //BEWARE YOU CAN'T PUT MORE THAN ONE BOSS ROOM IN THE SAME LEVEL
     private final int[] roomsDistribution = new int[]{1, 3, 3, 3, 3};
     //TurretRoom, StaffRoom, Boss_Key, CherryRoom, Level0Room
-    Level0 game = new Level0(false, new DiscreteCoordinates(1, 1), roomsDistribution, 10, 10);
+    Level0 game = new Level0(true, new DiscreteCoordinates(1, 1), roomsDistribution, 6, 6);
     public final static float CAMERA_SCALE_FACTOR = constants.cameraScaleFactor;
     private boolean animationRunning = false;
     private ICRoguePlayer player;
